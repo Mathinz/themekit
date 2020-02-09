@@ -1,0 +1,7 @@
+development:
+  password: ${STOREPASS}
+  store: $STOREDOMAIN
+  ignore_files:
+  - charmander
+  - bulbasaur
+  - squirtle

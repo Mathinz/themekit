@@ -1,0 +1,21 @@
+# Site settings
+title: Shopify Theme Kit
+email: themekit@shopify.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "/themekit"
+url: "https://shopify.github.io"
+sass:
+  cache: true
+# remember to update the checksums
+themekitversion: "v0.8.1"
+# these can be generated with `make md5s`
+darwinamd64sum: 7561861ea64ab5e5dd7a1aa34b617f29
+windows386sum: c8008f8c3c23b456d80ec006f94b1517
+windowsamd64sum: fef5a6cd73731ac17d69b880bbbd6c1d
+linux386sum: 6493bf629c55106c5f65ff38884b1f17
+linuxamd64sum: d7d4e2ac3fc751edbca0346d07ef1654
+freebsd386sum: 60b410b95b2197ccf8047f40a3e4c6d2
+freebsdamd64sum: fb011522777a2d21c5937dc98c50b3da
+
+# Build settings
+markdown: kramdown

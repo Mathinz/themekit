@@ -1,0 +1,13 @@
+build/
+nanoc/
+.env
+tags
+.DS_Store
+
+# for testing
+coverage.out
+
+# for docs
+docs/_site/
+docs/.sass-cache/
+docs/.jekyll-metadata
